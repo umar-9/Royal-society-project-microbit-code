@@ -10,4 +10,5 @@ Year 10 Project focussed on adult social care
 ### Sensor
 ![Version3 Sensor Flowchar](Version3_Sensor_Flow.png)
 ### Receiver
-![Version3 Receiver Flowchar](Version3_Receiver_Flow.png)
+
+<img src="Version3_Receiver_Flow.png" width="200" height="200" />
