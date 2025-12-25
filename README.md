@@ -1,14 +1,5 @@
 # Royal-society-project
-Year 10 Project focussed on adult social care
-## Version 2 Flowcharts
-### Sensor
-![Version2 Sensor Flowchart](Version2_Sensor_Flow.png)
-### Receiver
-![Version2 Receiver Flowchart](Version2_Receiver_Flow.png)
-
-## Version 3 Flowcharts
-### Sensor
-![Version3 Sensor Flowchart](Version3_Sensor_Flow.png)
-### Receiver
-![Version3 Receiver Flowchart](Version3_Receiver_Flow.png)
-
+Year 10 Project focussed on adult social care. <br>
+The team developed a fall prevention and detection watch for care home patients using a micro:bit, accelerometer, and pulse oximeter. <br>
+Achieved Gold CREST award, and "Highly Commended" award from CSES's TEXPO<br>
+<br>[PROJECT DOCUMENTATION](Fallarm_Project_Report.pdf)
